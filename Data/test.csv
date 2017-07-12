@@ -1,0 +1,4 @@
+Image,GroundTruth
+test/JPCLN007.jpg,test/JPCLN007.jpg-msk.png
+test/JPCLN008.jpg,test/JPCLN008.jpg-msk.png
+test/JPCLN009.jpg,test/JPCLN009.jpg-msk.png
